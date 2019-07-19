@@ -6,6 +6,6 @@ Features:
 >Multipe chat rooms
 >Members Available in each chat roomwith naame and active status.
 >Language profanity check(sentiment analysis)
->Notofication on members joined and left.
+>Notofication when members are joined and left.
 
 Visit https://registration-form-chat-app.herokuapp.com/
