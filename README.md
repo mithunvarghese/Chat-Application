@@ -8,4 +8,4 @@ Features:
 >Language profanity check(sentiment analysis)
 >Notofication on members joined and left.
 
-Start: node app.js
+Visit https://registration-form-chat-app.herokuapp.com/
