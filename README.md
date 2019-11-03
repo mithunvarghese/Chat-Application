@@ -8,4 +8,4 @@ Features:
 >Language profanity check(sentiment analysis)
 >Notofication when members are joined and left.
 
-Visit https://registration-form-chat-app.herokuapp.com/
+Visit https://chat-application-varghese.herokuapp.com
